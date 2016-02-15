@@ -1,0 +1,28 @@
+name: parkerkent
+favicon: null
+layout_spectrum: 0.6092075621709228
+typography_spectrum: 0.2474669215735048
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8562870894093066
+  lightness: 0.8271269956603646
+  saturation: 0.16449063830077648
+  rhythmicContrast: 0.9517665870953351
+purpose: []
